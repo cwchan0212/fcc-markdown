@@ -1,0 +1,12 @@
+body {
+  background-color: #4b7bec;
+}
+
+.preview {
+  background-color: #ffffff;
+  min-height: 400px;  
+}
+
+ textarea  {
+  min-height: 400px;  
+}
